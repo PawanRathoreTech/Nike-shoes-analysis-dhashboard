@@ -1,5 +1,17 @@
 # Nike-Shoes-Analysis-Dhashboard
 
+## 📸 Dashboard Preview
+
+### Overview
+![Overview](Screenshot 2026-01-17 231608.png)
+
+### Insight
+![Insight](Screenshot 2026-01-17 231642.png)
+
+### Performance
+![Performance](Screenshot 2026-01-17 231714.png)
+
+
 ## 📊 Project Overview
 This project presents a detailed **sales analysis of Nike shoes** using an
 interactive **Power BI dashboard**.  
