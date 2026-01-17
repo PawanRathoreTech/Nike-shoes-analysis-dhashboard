@@ -11,6 +11,15 @@
 ### Performance
 ![Performance](https://github.com/PawanRathoreTech/Nike-Shoes-Analysis-Dhashboard/blob/main/Screenshot%202026-01-17%20231714.png)
 
+### Overview 2
+![Overview](https://github.com/PawanRathoreTech/Nike-Shoes-Analysis-Dhashboard/blob/main/Screenshot%202026-01-17%20231800.png)
+
+### Insight 2
+![Insight]
+
+### Performance 2
+![Performance
+
 
 ## 📊 Project Overview
 This project presents a detailed **sales analysis of Nike shoes** using an
