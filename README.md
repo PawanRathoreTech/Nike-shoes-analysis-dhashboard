@@ -3,7 +3,7 @@
 ## 📸 Dashboard Preview
 
 ### Overview
-![Overview](Screenshot 2026-01-17 231608.png)
+![Overview]https://github.com/PawanRathoreTech/Nike-Shoes-Analysis-Dhashboard/blob/main/Screenshot%202026-01-17%20231608.png
 
 ### Insight
 ![Insight](Screenshot 2026-01-17 231642.png)
